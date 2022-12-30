@@ -17,8 +17,8 @@
     "chai": "^4.2.0",
     "chromedriver": "^79.0.0",
     "geckodriver": "^1.11.0",
-    "mocha": "^6.2.2",
-    "mocha-webdriver": "^0.2.6",
+    "mocha": "^10.2.0",
+    "mocha-webdriver": "^0.2.11",
     "selenium-webdriver": "^4.0.0-alpha.5",
     "yargs": "^11.0.0"
   },
